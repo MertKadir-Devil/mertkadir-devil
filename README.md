@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My Name İs Mert Kadir
+#### Mobile Application Developer
+![Mobile Application Developer](https://hizliresim.com/NDSwmf)
 
-<!--
-**MertKadir-Devil/mertkadir-devil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Mert Kadir. I'm Interested In Mobile Application Software, And I'm A Student In Network Operations And Cyber ​​Security
 
-Here are some ideas to get you started:
+Skills: JAVA / KOTLİN / JS / C / C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
