@@ -4,6 +4,7 @@
 
 ## Mert Kadir -Devil
 
+I am Student, Developer
 Hello, I'm Mert Kadir. I'm Interested In Mobile Application Software, And I'm A Student In Network Operations And Cyber ​​Security
 
 ## Skills and Experience 
