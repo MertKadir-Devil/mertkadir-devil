@@ -7,9 +7,9 @@ Hello, I'm Mert Kadir. I'm Interested In Mobile Application Software, And I'm A 
 Skills;  
 💻 
 📱 JAVA  
- KOTLİN 
+<img src='https://user-images.githubusercontent.com/77637289/105751622-53f09000-5f57-11eb-8251-fcfcda37a9ec.png' width='35' height='35'> KOTLİN 
 JS 
-<img src='https://user-images.githubusercontent.com/77637289/105751622-53f09000-5f57-11eb-8251-fcfcda37a9ec.png' width='35' height='35'>
+
 - 🌱 I’m currently learning Mobile Application Developer 
 - 📫 How to reach me: mert.kadir9395@gmail.com 
 
