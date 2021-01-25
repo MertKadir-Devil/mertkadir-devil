@@ -5,7 +5,7 @@
 Hello, I'm Mert Kadir. I'm Interested In Mobile Application Software, And I'm A Student In Network Operations And Cyber ​​Security
 
 Skills;  
-<img src='https://user-images.githubusercontent.com/77637289/105752167-fdd01c80-5f57-11eb-9e54-4c2426092cdd.png' width='25' height='25' > JAVA  
+<img src='https://user-images.githubusercontent.com/77637289/105752167-fdd01c80-5f57-11eb-9e54-4c2426092cdd.png' width='30' height='30' > JAVA  
 <img src='https://user-images.githubusercontent.com/77637289/105751622-53f09000-5f57-11eb-8251-fcfcda37a9ec.png' width='25' height='25' > KOTLİN 
 
 
