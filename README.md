@@ -4,9 +4,8 @@
 
 Hello, I'm Mert Kadir. I'm Interested In Mobile Application Software, And I'm A Student In Network Operations And Cyber ​​Security
 
-Skills;
- 💻 
- JAVA
+Skills;  
+💻 JAVA  
  KOTLİN 
  JS 
 
