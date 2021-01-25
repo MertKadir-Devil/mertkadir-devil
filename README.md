@@ -26,7 +26,7 @@ Hello, I'm Mert Kadir. I'm Interested In Mobile Application Software, And I'm A 
 ## About Me
 - 🌱 I’m currently learning Mobile Application Developer 
 - 📫 How to reach me: mert.kadir9395@gmail.com 
-
+##
 
 
 
