@@ -11,7 +11,7 @@ Hello, I'm Mert Kadir. I'm Interested In Mobile Application Software, And I'm A 
 
 <img src='https://user-images.githubusercontent.com/77637289/105753008-14c33e80-5f59-11eb-9342-2362b6dd6055.png' width='25' height='25' > JavaScript
 
-<img src='https://user-images.githubusercontent.com/77637289/105753231-65d33280-5f59-11eb-9687-f8ec63e1d749.png' width='25' height='25' > C
+<img src='https://user-images.githubusercontent.com/77637289/105753231-65d33280-5f59-11eb-9687-f8ec63e1d749.png' width='35' height='35' > C
 
 ## Tools I Use
 <img src='https://user-images.githubusercontent.com/77637289/105753531-ebef7900-5f59-11eb-83cf-d1c447cf7b9e.png' width='25' height='25' >
