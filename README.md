@@ -7,6 +7,11 @@ Hello, I'm Mert Kadir. I'm Interested In Mobile Application Software, And I'm A 
 ## Skills and Experience 
 <img src='https://user-images.githubusercontent.com/77637289/105752167-fdd01c80-5f57-11eb-9e54-4c2426092cdd.png' width='30' height='30' > JAVA  
 <img src='https://user-images.githubusercontent.com/77637289/105751622-53f09000-5f57-11eb-8251-fcfcda37a9ec.png' width='25' height='25' > KOTLİN 
+<img src='https://user-images.githubusercontent.com/77637289/105753008-14c33e80-5f59-11eb-9342-2362b6dd6055.png' width='25' height='25' > JavaScript
+<img src='https://user-images.githubusercontent.com/77637289/105753231-65d33280-5f59-11eb-9687-f8ec63e1d749.png' width='25' height='25' >
+
+
+
 
 ## About Me
 - 🌱 I’m currently learning Mobile Application Developer 
