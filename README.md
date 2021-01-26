@@ -34,7 +34,7 @@ Hello, I'm Mert Kadir. I'm Interested In Mobile Application Software, And I'm A 
 
 
 
-[<img src='https://user-images.githubusercontent.com/77637289/105754148-c57e0d80-5f5a-11eb-946b-ae679a5ec1df.png' alt='github' height='40'>](https://github.com/MertKadir-Devil)  [<img src='https://user-images.githubusercontent.com/77637289/105753913-746e1980-5f5a-11eb-9830-d438020e9396.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/)  [<img src='https://user-images.githubusercontent.com/77637289/105753995-91a2e800-5f5a-11eb-9933-8f65e688616c.png' alt='discord' height='40'>](https://discord.gg/NHJ7evtJ38/devil.java/)  
+[<img src='https://user-images.githubusercontent.com/77637289/105754148-c57e0d80-5f5a-11eb-946b-ae679a5ec1df.png' alt='github' height='40'>](https://github.com/MertKadir-Devil)  [<img src='https://user-images.githubusercontent.com/77637289/105753913-746e1980-5f5a-11eb-9830-d438020e9396.png' alt='instagram' height='40'>](https://www.instagram.com/devil.java/)  [<img src='https://user-images.githubusercontent.com/77637289/105753995-91a2e800-5f5a-11eb-9933-8f65e688616c.png' alt='discord' height='40'>](https://discord.gg/NHJ7evtJ38)  
 ##
 ![Profile views](https://gpvc.arturio.dev/MertKadir-Devil)  
 
